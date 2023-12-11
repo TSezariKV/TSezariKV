@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsezarikv&label=Profile%20views&color=0e75b6&style=flat" alt="tsezarikv" /> </p>
 
-- 🌱 I’m currently learning **React.JS, Node.JS**
+- 🌱 Currently learning **React.JS, Node.JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TSezariKV](https://github.com/TSezariKV)
 
