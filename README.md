@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsezarikv&label=Profile%20views&color=0e75b6&style=flat" alt="tsezarikv" /> </p>
 
-- 🌱 Currently learning **React.JS, Node.JS**
+- 🌱 Currently learning **#**
 
-- 👨‍💻 All of my projects are available at [https://github.com/TSezariKV](https://github.com/TSezariKV)
+- 👨‍💻 All of my projects are available at [[https://github.com/TSezariKV](https://github.com/TSezariKV](https://github.com/TSezariKV?tab=repositories))
 
 - 📫 How to reach me **cez3x.business@gmail.com**
 
