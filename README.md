@@ -8,7 +8,7 @@
 
 - 🌱 Currently learning **#**
 
-- 👨‍💻 All of my projects are available at [[https://github.com/TSezariKV](https://github.com/TSezariKV](https://github.com/TSezariKV?tab=repositories))
+- 👨‍💻 All of my projects are available at [https://github.com/TSezariKV?tab=repositories]
 
 - 📫 How to reach me **cez3x.business@gmail.com**
 
